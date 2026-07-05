@@ -32,5 +32,5 @@
 </p>
 
 ### 📌 Pinned Highlights
-- **No clashTimetable** — Python app with model/repository/service layers, custom exceptions
+- **No clashTimetable** — Python  with model/repository/service layers, custom exceptions
 - **Data Analyst Capstone** — end-to-end EDA, dashboarding, and presentation (IBM Certificate)
