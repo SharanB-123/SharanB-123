@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sharan</h1>
 <h3 align="center">Java Developer | Data Analyst</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+
 
 - 🔭 I'm currently building projects in **Java** , **Data Analytics** and **Python**
 - 🌱 I recently completed the **IBM Data Analyst Certificate**
